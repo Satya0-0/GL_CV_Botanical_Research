@@ -18,7 +18,6 @@ The goal is to build a classifier that can identify the species of a plant from 
 *   `data/`: Data set used: "17 category dataset" from URL - https://www.robots.ox.ac.uk/~vgg/data/flowers/
               Other data set can be found at - https://www.kaggle.com/c/plant-seedlings-classification/data
 *   `Prediction.jpg`: Sample image for prediction.
-*   `GL - CV- Botanical Research.ipynb`: Actual Code
 
 ## Results
 
